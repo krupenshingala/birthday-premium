@@ -65,7 +65,7 @@ Error generating stack: `+e.message+`
         md:text-2xl\r
 \r
         leading-9\r
-      `,children:`Wishing you endless happiness, beautiful memories, lots of laughter, and a year filled with love and success. ❤️`}),(0,H.jsx)(X.div,{initial:{opacity:0,y:30},animate:{opacity:1,y:0},transition:{delay:.8},className:`mt-14`,children:(0,H.jsx)(X.button,{whileHover:{scale:1.05},whileTap:{scale:.96},onClick:()=>document.getElementById(`story`)?.scrollIntoView({behavior:`smooth`}),className:`\r
+      `,children:`Many Many Happy Returns Of The Day My Fav Person. ❤️`}),(0,H.jsx)(X.div,{initial:{opacity:0,y:30},animate:{opacity:1,y:0},transition:{delay:.8},className:`mt-14`,children:(0,H.jsx)(X.button,{whileHover:{scale:1.05},whileTap:{scale:.96},onClick:()=>document.getElementById(`story`)?.scrollIntoView({behavior:`smooth`}),className:`\r
           rounded-full\r
 \r
           bg-white\r
