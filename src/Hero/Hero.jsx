@@ -1,3 +1,4 @@
+import "./Hero.css";
 import FloatingHearts from "./FloatingHearts";
 import BackgroundGlow from "./BackgroundGlow";
 import HeroContent from "./HeroContent";
