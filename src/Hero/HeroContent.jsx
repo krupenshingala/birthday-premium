@@ -104,8 +104,7 @@ export default function HeroContent() {
         leading-9
       "
       >
-        Wishing you endless happiness, beautiful memories, lots of laughter,
-        and a year filled with love and success. ❤️
+        Many Many Happy Returns Of The Day My Fav Person. ❤️
       </motion.p>
 
       {/* Button */}
